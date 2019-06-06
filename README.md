@@ -1,0 +1,2 @@
+# inspinia
+inspinia static resource
